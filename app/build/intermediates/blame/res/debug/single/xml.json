@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Armand/sources/school/MulTetris/app/build/intermediates/res/merged/debug/xml/advanced_preferences.xml",
+        "source": "/Users/Armand/sources/school/MulTetris/app/src/main/res/xml/advanced_preferences.xml"
+    },
+    {
+        "merged": "/Users/Armand/sources/school/MulTetris/app/build/intermediates/res/merged/debug/xml/about_menu.xml",
+        "source": "/Users/Armand/sources/school/MulTetris/app/src/main/res/xml/about_menu.xml"
+    },
+    {
+        "merged": "/Users/Armand/sources/school/MulTetris/app/build/intermediates/res/merged/debug/xml/help_menu.xml",
+        "source": "/Users/Armand/sources/school/MulTetris/app/src/main/res/xml/help_menu.xml"
+    },
+    {
+        "merged": "/Users/Armand/sources/school/MulTetris/app/build/intermediates/res/merged/debug/xml/simple_preferences.xml",
+        "source": "/Users/Armand/sources/school/MulTetris/app/src/main/res/xml/simple_preferences.xml"
+    }
+]
